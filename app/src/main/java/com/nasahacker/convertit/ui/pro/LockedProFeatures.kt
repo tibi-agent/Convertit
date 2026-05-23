@@ -78,6 +78,8 @@ internal fun lockedFeatures(): List<LockedFeature> {
         LockedFeature(Icons.Filled.Bookmark, R.string.pro_locked_feature_10, cs.primaryContainer, cs.onPrimaryContainer),
         LockedFeature(Icons.Filled.Gif, R.string.pro_locked_feature_11, cs.tertiaryContainer, cs.onTertiaryContainer),
         LockedFeature(Icons.Filled.Compress, R.string.pro_locked_feature_12, cs.secondaryContainer, cs.onSecondaryContainer),
+        // Added Equalizer feature
+        LockedFeature(Icons.Filled.SurroundSound, R.string.pro_locked_feature_equalizer, cs.primaryContainer, cs.onPrimaryContainer),
     )
 }
 
