@@ -233,7 +233,8 @@
     <string name="conversion_success_message">Conversion completed!</string>
     <string name="label_version_copied">Version %1$s copied</string>
     <string name="label_view_file">View File</string>
-    
+        <string name="pro_locked_feature_equalizer">Equalizer</string>
+
     <!-- Pro Screen -->
     <string name="pro_screen_appbar_title">Convertit Pro</string>
     
